@@ -5,17 +5,17 @@
 The name is Ethan and I'm a currently a student [__@HETIC__](https://hetic.net) in Montreuil, France.
 
 Even tho I'm in a well-known school for devs I still learned by myslef a lot of things such as :
-|Language/Librairy|Mastery|Project|
-|--|--|--|
-|Html/Css| Mastered|[Rushed art project](https://project-i-art.web.app/)|
-|SCSS| Advanced|Mostly all my front-end works|
-|VanillaJS| Advanced|Mostly all my front-end works|
-|Reactjs| Advanced|[my portfolio](ethlny.web.app)|
-|NextJs| Advanced|Link to the repo soon|
-|Tailwind| Advanced|Link to the repo soon|
-|Bootstrap| Advenced|Link to the repo soon|
-|VueJS| junior|[A friend's portfolio](https://kelly-barbosa-portfolio.web.app/)|
 
+[<img align="left" alt="HtmlCss" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2017%2F08%2F05%2F11%2F16%2Flogo-2582748_960_720.png&f=1&nofb=1" />][Html]
+[<img align="left" alt="Sass" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freelogovectors.net%2Fwp-content%2Fuploads%2F2019%2F02%2Fsass-logo.png&f=1&nofb=1" />][Sass]
+[<img align="left" alt="Javascript" width="55px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Fjavascript-vector-png-javascript-vector-logo-600.png&f=1&nofb=1" />][Javascript]
+[<img align="left" alt="ReactJs" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Freact-logo-png-img-react-logo-png-react-js-logo-png-transparent-png-1142x1027.png&f=1&nofb=1" />][ReactJs]
+[<img align="left" alt="NextJS" width="55px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Fnext-logo-png-build-a-universal-javascript-app-with-next-js-280.png&f=1&nofb=1" />][NextJs]
+[<img align="left" alt="Tailwind" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.W_Louhgy0qKrsRO8YfURpQHaHa%26pid%3DApi&f=1" />][Tailwind]
+[<img align="left" alt="Bootstrap" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsdtimes.com%2Fwp-content%2Fuploads%2F2018%2F01%2Fbootstrap-stack.png&f=1&nofb=1" />][Bootstrap]
+[<img align="left" alt="Vue" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvuejs.org%2Fimages%2Flogo.png&f=1&nofb=1" />][Vue]
+<br/>
+<br/>
 ---
 ## I'm currently working on :
 - 🐍 A textual rpg in python
@@ -59,3 +59,11 @@ Here are some ideas to get you started:
 [Php]: https://www.php.net/
 [Svelte]: https://svelte.dev/
 [Python]: https://www.python.org/
+[HTML]: https://developer.mozilla.org/fr/docs/Web/HTML
+[Sass]: https://sass-lang.com/
+[Vue]: https://vuejs.org/
+[NextJs]: https://nextjs.org/
+[Javascript]: https://www.javascript.com/
+[ReactJs]: https://en.reactjs.org/
+[Bootstrap]: https://getbootstrap.com/
+[Tailwind]: https://tailwindcss.com/
