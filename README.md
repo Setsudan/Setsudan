@@ -39,8 +39,9 @@ Even tho I'm in a well-known school for devs I still learned by myslef a lot of 
 - App developpement (Flutter)
 
 ## 📢 My contacts
-|Mail|Phone|Linkedin|
-|--|--|--|
+|Mail|Linkedin|
+|--|--|
+|evl.procontact@gmail.com|[Launay Ethan](https://www.linkedin.com/in/videau-launay-ethan/)|
 <!--
 **Setsudan/Setsudan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
