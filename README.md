@@ -25,10 +25,10 @@ Even tho I'm in a well-known school for devs I still learned by myslef a lot of 
 ## I'm currently learning :
 [<img align="left" alt="Svelte" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fsveltejs%2Fsvelte%2F29052aba7d0b78316d3a52aef1d7ddd54fe6ca84%2Fsite%2Fstatic%2Fimages%2Fsvelte-android-chrome-512.png&f=1&nofb=1" />][Svelte]
 [<img align="left" alt="Flutter" width="55px" src="https://www.editions-eni.fr/blog/wp-content/uploads/2021/06/logo_flutter.png" />][Flutter]
+[<img align="left" alt="Docker" width="55px" src="https://user-images.githubusercontent.com/33750251/60287980-21aa2700-990b-11e9-9c9d-a79874587a86.png" />][Docker]
 [<img align="left" alt="Strapi" width="55px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEt0L6R3cV--w/company-logo_200_200/0/1625643444931?e=2159024400&v=beta&t=ELir8DqKcwFW5Gc0Wes4AsYmwkK6ylLzWTfPySOrP64" />][Strapi]
 [<img align="left" alt="Python" width="55px" src="https://image.pngaaa.com/138/619138-middle.png" />][Python]
 [<img align="left" alt="Php" width="55px" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" />][Php]
-[<img align="left" alt="Docker" width="55px" src="https://user-images.githubusercontent.com/33750251/60287980-21aa2700-990b-11e9-9c9d-a79874587a86.png" />][Docker]
 
 <br/>
 <br/>
