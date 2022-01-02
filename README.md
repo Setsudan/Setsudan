@@ -4,7 +4,7 @@
 
 The name is Ethan and I'm a currently a student [__@HETIC__](https://hetic.net) in Montreuil, France.
 
-Even tho I'm in a well-known school for devs I still learned by myslef a lot of things such as :
+Even tho I'm in a well-known school for devs I still learned by myself a lot of things such as :
 
 [<img align="left" alt="HtmlCss" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2017%2F08%2F05%2F11%2F16%2Flogo-2582748_960_720.png&f=1&nofb=1" />][Html]
 [<img align="left" alt="Sass" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freelogovectors.net%2Fwp-content%2Fuploads%2F2019%2F02%2Fsass-logo.png&f=1&nofb=1" />][Sass]
