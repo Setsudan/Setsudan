@@ -18,6 +18,7 @@ Even tho I'm in a well-known school for devs I still learned by myself a lot of 
 [<img align="left" alt="Vue" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvuejs.org%2Fimages%2Flogo.png&f=1&nofb=1" />][vue]
 [<img align="left" alt="Strapi" width="55px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEt0L6R3cV--w/company-logo_200_200/0/1625643444931?e=2159024400&v=beta&t=ELir8DqKcwFW5Gc0Wes4AsYmwkK6ylLzWTfPySOrP64" />][strapi]
 [<img align="left" alt="Python" width="55px" src="https://image.pngaaa.com/138/619138-middle.png" />][python]
+
 <br/>
 <br/>
 
