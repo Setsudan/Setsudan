@@ -49,7 +49,7 @@ Even tho I'm in a well-known school for devs I still learned by myself a lot of 
 [<img align="left" alt="Redux" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fredux-logo-3.jpg&f=1&nofb=1" />][redux]
 [<img align="left" alt="Redis" width="55px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fthenewstack.io%2Fwp-content%2Fuploads%2F2015%2F03%2Fredis-logo.png&f=1&nofb=1" />][redis]
 [<img align="left" alt="Svelte" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.AvnsLTPMJyexgrB-U6NXcwHaHa%26pid%3DApi&f=1" />][svelte]
-[<img align="left" alt="C++" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Ff0%2F50%2F18%2Ff0501813ea932b1676c7e604e47a9de3.jpg&f=1&nofb=1" />][c++]
+[<img align="left" alt="C++" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-01ThfbHBmw4%2FWlC7rq65opI%2FAAAAAAAAHgs%2F5QWw8Vf4k-EPx6L5nfwEfbLnF6OW7D48wCLcBGAs%2Fs1600%2Flinguagem-c.png&f=1&nofb=1" />][c++]
 [<img align="left" alt="ReactNative" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.onu.ro%2Fwp%2Fwp-content%2Fuploads%2F2020%2F03%2Freact-native-logo-768x890.png&f=1&nofb=1" />][reactnative]
 [<img align="left" alt="Docker" width="55px" src="https://user-images.githubusercontent.com/33750251/60287980-21aa2700-990b-11e9-9c9d-a79874587a86.png" />][docker]
 [<img align="left" alt="Php" width="55px" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" />][php]
