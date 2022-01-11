@@ -37,6 +37,7 @@ Even tho I'm in a well-known school for devs I still learned by myself a lot of 
 [<img align="left" alt="Svelte" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.KTiL_vPP90argxTZJFvSiQHaFN%26pid%3DApi&f=1" />][gunjs]
 [<img align="left" alt="Flutter" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.onu.ro%2Fwp%2Fwp-content%2Fuploads%2F2020%2F03%2Freact-native-logo-768x890.png&f=1&nofb=1" />][reactnative]
 [<img align="left" alt="Flutter" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ff0.pngfuel.com%2Fpng%2F306%2F37%2Fnode-js-logo-png-clip-art.png&f=1&nofb=1" />][nodejs]
+[<img align="left" alt="Svelte" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F993555605078994945%2FYr-pWI4G_400x400.jpg&f=1&nofb=1" />][dart]
 [<img align="left" alt="Flutter" width="55px" src="https://www.editions-eni.fr/blog/wp-content/uploads/2021/06/logo_flutter.png" />][flutter]
 [<img align="left" alt="Docker" width="55px" src="https://user-images.githubusercontent.com/33750251/60287980-21aa2700-990b-11e9-9c9d-a79874587a86.png" />][docker]
 [<img align="left" alt="Php" width="55px" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" />][php]
@@ -66,21 +67,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[flutter]: https://flutter.dev/
-[docker]: https://www.docker.com/
-[strapi]: https://strapi.io/
-[php]: https://www.php.net/
-[svelte]: https://svelte.dev/
-[python]: https://www.python.org/
-[html]: https://developer.mozilla.org/fr/docs/Web/HTML
-[sass]: https://sass-lang.com/
-[vue]: https://vuejs.org/
-[nextjs]: https://nextjs.org/
-[javascript]: https://www.javascript.com/
-[reactjs]: https://en.reactjs.org/
 [bootstrap]: https://getbootstrap.com/
-[tailwind]: https://tailwindcss.com/
 [css]: https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS
-[reactnative]: https://reactnative.dev/
+[dart]: https://dart.dev/
+[docker]: https://www.docker.com/
+[flutter]: https://flutter.dev/
 [gunjs]: http://gun.js.org/
+[html]: https://developer.mozilla.org/fr/docs/Web/HTML
+[javascript]: https://www.javascript.com/
+[nextjs]: https://nextjs.org/
 [nodejs]: https://expressjs.com/
+[php]: https://www.php.net/
+[python]: https://www.python.org/
+[reactjs]: https://en.reactjs.org/
+[reactnative]: https://reactnative.dev/
+[sass]: https://sass-lang.com/
+[strapi]: https://strapi.io/
+[svelte]: https://svelte.dev/
+[tailwind]: https://tailwindcss.com/
+[vue]: https://vuejs.org/
