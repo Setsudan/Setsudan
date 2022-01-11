@@ -38,6 +38,9 @@ Even tho I'm in a well-known school for devs I still learned by myself a lot of 
 [<img align="left" alt="Dart" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F993555605078994945%2FYr-pWI4G_400x400.jpg&f=1&nofb=1" />][dart]
 [<img align="left" alt="Flutter" width="55px" src="https://www.editions-eni.fr/blog/wp-content/uploads/2021/06/logo_flutter.png" />][flutter]
 
+<br/>
+<br/>
+
 ## I plan on learning
 
 [<img align="left" alt="Rust" width="55px" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" />][rust]
