@@ -36,14 +36,16 @@ Even tho I'm in a well-known school for devs I still learned by myself a lot of 
 ## I'm currently learning :
 
 [<img align="left" alt="NodeJs" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ff0.pngfuel.com%2Fpng%2F306%2F37%2Fnode-js-logo-png-clip-art.png&f=1&nofb=1" />][nodejs]
-[<img align="left" alt="Dart" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F993555605078994945%2FYr-pWI4G_400x400.jpg&f=1&nofb=1" />][dart]
-[<img align="left" alt="Flutter" width="55px" src="https://www.editions-eni.fr/blog/wp-content/uploads/2021/06/logo_flutter.png" />][flutter]
+[<img align="left" alt="Php" width="55px" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" />][php]
+[<img align="left" alt="Docker" width="55px" src="https://user-images.githubusercontent.com/33750251/60287980-21aa2700-990b-11e9-9c9d-a79874587a86.png" />][docker]
 
 <br/>
 <br/>
 
 ## I plan on learning
 
+[<img align="left" alt="Dart" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F993555605078994945%2FYr-pWI4G_400x400.jpg&f=1&nofb=1" />][dart]
+[<img align="left" alt="Flutter" width="55px" src="https://www.editions-eni.fr/blog/wp-content/uploads/2021/06/logo_flutter.png" />][flutter]
 [<img align="left" alt="Rust" width="55px" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" />][rust]
 [<img align="left" alt="GunJS" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.KTiL_vPP90argxTZJFvSiQHaFN%26pid%3DApi&f=1" />][gunjs]
 [<img align="left" alt="Redux" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fredux-logo-3.jpg&f=1&nofb=1" />][redux]
@@ -51,8 +53,6 @@ Even tho I'm in a well-known school for devs I still learned by myself a lot of 
 [<img align="left" alt="Svelte" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.AvnsLTPMJyexgrB-U6NXcwHaHa%26pid%3DApi&f=1" />][svelte]
 [<img align="left" alt="C++" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.kZhgfDBXd3cBa6adFsbGRwAAAA%26pid%3DApi&f=1" />][c++]
 [<img align="left" alt="ReactNative" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.onu.ro%2Fwp%2Fwp-content%2Fuploads%2F2020%2F03%2Freact-native-logo-768x890.png&f=1&nofb=1" />][reactnative]
-[<img align="left" alt="Docker" width="55px" src="https://user-images.githubusercontent.com/33750251/60287980-21aa2700-990b-11e9-9c9d-a79874587a86.png" />][docker]
-[<img align="left" alt="Php" width="55px" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" />][php]
 [<img align="left" alt="Typescript" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.jeremylikness.com%2Fblog%2F2019-03-05_typescript-for-javascript-developers-by-refactoring-part-1-of-2%2Fimages%2F1.jpeg&f=1&nofb=1" />][typescript]
 <br/>
 <br/>
