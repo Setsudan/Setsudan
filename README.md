@@ -65,6 +65,7 @@ I need less than all that but I wanted to make my own opinion on each language a
 ## New portfolio coming soon
 
 It'll come with some documentation and all the project I have done in all the languages I know today.
+I also recently restarted doin a [documentation website](https://docs-ethlny.vercel.app/) where I put all my knowledge into words. Tho it is fairly incomplete and not really teacher friendly(especially concerning the spelling mistake)
 
 ## 📢 My contacts
 
