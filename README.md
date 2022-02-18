@@ -20,6 +20,7 @@ Even tho I'm in a well-known school for devs I still learned by myself a lot of 
 [<img align="left" alt="Python" width="55px" src="https://image.pngaaa.com/138/619138-middle.png" />][python]
 [<img align="left" alt="Php" width="55px" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" />][php]
 
+
 <br/>
 <br/>
 
