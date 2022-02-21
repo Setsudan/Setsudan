@@ -27,10 +27,7 @@ Even tho I'm in a well-known school for devs I still learned by myself a lot of 
 
 ## I'm currently working on :
 
-- 📥 Chat App using React Native
-- 🔫 Decentralized App with gunjs
-- 🕸️ Node.js & Express js server app
-- 🤺 Myself
+- Reworking all my knowledge from square 0
 
 ---
 
