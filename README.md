@@ -48,6 +48,11 @@ The name is Ethan and I'm a currently a student [**@HETIC**](https://hetic.net) 
 [<img align="left" alt="Svelte" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.AvnsLTPMJyexgrB-U6NXcwHaHa%26pid%3DApi&f=1" />][svelte]
 [<img align="left" alt="ReactNative" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.onu.ro%2Fwp%2Fwp-content%2Fuploads%2F2020%2F03%2Freact-native-logo-768x890.png&f=1&nofb=1" />][reactnative]
 [<img align="left" alt="Typescript" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.jeremylikness.com%2Fblog%2F2019-03-05_typescript-for-javascript-developers-by-refactoring-part-1-of-2%2Fimages%2F1.jpeg&f=1&nofb=1" />][typescript]
+
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
