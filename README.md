@@ -56,7 +56,6 @@ The name is Ethan and I'm a currently a student [**@HETIC**](https://hetic.net) 
 <br/>
 <br/>
 <br/>
-<br/>
 
 ## Why all that ?
 
