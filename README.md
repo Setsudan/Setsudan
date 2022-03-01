@@ -7,9 +7,9 @@
 
 The name is Ethan and I'm a currently a student [**@HETIC**](https://hetic.net) in Montreuil, France.
 
-<a href="https://github.com/Setsudan/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Setsudan&show_icons=true&theme=dark&hide_border=true&show_icons=true&custom_title=Here are some stats&include_all_commits=true&bg_color=22272e"/></a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setsudan&langs_count=10&theme=dark&hide_border=true&custom_title=My top 10 used languages&layout=compact&bg_color=22272e"/>
+<a href="https://github.com/Setsudan/"  >
+<img width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=Setsudan&show_icons=true&theme=dark&hide_border=true&show_icons=true&custom_title=Here are some stats&include_all_commits=true&bg_color=22272e"/></a>
+<img width=100% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setsudan&langs_count=10&theme=dark&hide_border=true&custom_title=My top 10 used languages&layout=compact&bg_color=22272e"/>
 
 ## ✅ Here's what I know right now
 
