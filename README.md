@@ -5,7 +5,11 @@
 
 The name is Ethan and I'm a currently a student [**@HETIC**](https://hetic.net) in Montreuil, France.
 
-Even tho I'm in a well-known school for devs I still learned by myself a lot of things such as :
+## My top 10 used languages (on github)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setsudan&langs_count=10&layout=compact&theme=dark&hide_border=true&custom_title="/>
+
+## ✅ Here's what I know right now
 
 [<img align="left" alt="HtmlCss" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2017%2F08%2F05%2F11%2F16%2Flogo-2582748_960_720.png&f=1&nofb=1" />][html]
 [<img align="left" alt="Sass" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3wa.fr%2Fwp-content%2Fuploads%2F2020%2F04%2Flogo-css.png&f=1&nofb=1" />][css]
@@ -22,11 +26,8 @@ Even tho I'm in a well-known school for devs I still learned by myself a lot of 
 </br>
 </br>
 </br>
-</br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setsudan&langs_count=10&layout=compact&theme=dark&hide_border=true&custom_title=My most used languages"/>
-
-## And I am currently learning :
+## 🆕 Here's what I'm picking right now
 
 [<img align="left" alt="NodeJs" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ff0.pngfuel.com%2Fpng%2F306%2F37%2Fnode-js-logo-png-clip-art.png&f=1&nofb=1" />][nodejs]
 [<img align="left" alt="Docker" width="55px" src="https://user-images.githubusercontent.com/33750251/60287980-21aa2700-990b-11e9-9c9d-a79874587a86.png" />][docker]
@@ -35,7 +36,7 @@ Even tho I'm in a well-known school for devs I still learned by myself a lot of 
 <br/>
 <br/>
 
-## While also planning on learning
+## 🔜 And what I'll try to learn in the near future
 
 [<img align="left" alt="Dart" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F993555605078994945%2FYr-pWI4G_400x400.jpg&f=1&nofb=1" />][dart]
 [<img align="left" alt="Flutter" width="55px" src="https://www.editions-eni.fr/blog/wp-content/uploads/2021/06/logo_flutter.png" />][flutter]
@@ -63,18 +64,6 @@ I need less than all that but I wanted to make my own opinion on each language a
 | Mail                     | Linkedin                                                         |
 | ------------------------ | ---------------------------------------------------------------- |
 | evl.procontact@gmail.com | [Launay Ethan](https://www.linkedin.com/in/videau-launay-ethan/) |
-
-<!--
-**Setsudan/Setsudan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [bootstrap]: https://getbootstrap.com/
 [css]: https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS
