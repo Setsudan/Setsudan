@@ -19,19 +19,14 @@ Even tho I'm in a well-known school for devs I still learned by myself a lot of 
 [<img align="left" alt="Python" width="55px" src="https://image.pngaaa.com/138/619138-middle.png" />][python]
 [<img align="left" alt="Php" width="55px" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" />][php]
 
+</br>
+</br>
+</br>
+</br>
 
-<br/>
-<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setsudan&langs_count=10&layout=compact&theme=dark&hide_border=true&custom_title=My most used languages"/>
 
----
-
-## I'm currently working on :
-
-- Reworking all my knowledge from square 0
-
----
-
-## I'm currently learning :
+## And I am currently learning :
 
 [<img align="left" alt="NodeJs" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ff0.pngfuel.com%2Fpng%2F306%2F37%2Fnode-js-logo-png-clip-art.png&f=1&nofb=1" />][nodejs]
 [<img align="left" alt="Docker" width="55px" src="https://user-images.githubusercontent.com/33750251/60287980-21aa2700-990b-11e9-9c9d-a79874587a86.png" />][docker]
@@ -40,7 +35,7 @@ Even tho I'm in a well-known school for devs I still learned by myself a lot of 
 <br/>
 <br/>
 
-## I plan on learning
+## While also planning on learning
 
 [<img align="left" alt="Dart" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F993555605078994945%2FYr-pWI4G_400x400.jpg&f=1&nofb=1" />][dart]
 [<img align="left" alt="Flutter" width="55px" src="https://www.editions-eni.fr/blog/wp-content/uploads/2021/06/logo_flutter.png" />][flutter]
@@ -60,10 +55,8 @@ Even tho I'm in a well-known school for devs I still learned by myself a lot of 
 I want to learn what i consider will be more than enough. Once I know all these kind I'll consider myself as fully able to adapt to any language and technology used by anyone.
 I need less than all that but I wanted to make my own opinion on each language and make my own stack for my own little self.
 
-## New portfolio coming soon
-
-It'll come with some documentation and all the project I have done in all the languages I know today.
-I also recently restarted doin a [documentation website](https://docs-ethlny.vercel.app/) where I put all my knowledge into words. Tho it is fairly incomplete and not really teacher friendly(especially concerning the spelling mistake)
+<a href="https://github.com/Setsudan/">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Setsudan&show_icons=true&theme=dark&hide_border=true&show_icons=true&custom_title=Here are some stats&include_all_commits=true"/></a>
 
 ## 📢 My contacts
 
