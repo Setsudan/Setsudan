@@ -14,16 +14,16 @@ The name is Ethan and I'm a currently a student [**@HETIC**](https://hetic.net) 
 ## ✅ Here's what I know right now
 
 [<img align="left" alt="HtmlCss" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2017%2F08%2F05%2F11%2F16%2Flogo-2582748_960_720.png&f=1&nofb=1" />][html]
-[<img align="left" alt="Sass" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3wa.fr%2Fwp-content%2Fuploads%2F2020%2F04%2Flogo-css.png&f=1&nofb=1" />][css]
+[<img align="left" alt="Sass" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.logolynx.com%2Fimages%2Flogolynx%2F8f%2F8fb97dec724d750d2085173816712ffc.png&f=1&nofb=1" />][css]
 [<img align="left" alt="Sass" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freelogovectors.net%2Fwp-content%2Fuploads%2F2019%2F02%2Fsass-logo.png&f=1&nofb=1" />][sass]
 [<img align="left" alt="Javascript" width="55px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Fjavascript-vector-png-javascript-vector-logo-600.png&f=1&nofb=1" />][javascript]
 [<img align="left" alt="ReactJs" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Freact-logo-png-img-react-logo-png-react-js-logo-png-transparent-png-1142x1027.png&f=1&nofb=1" />][reactjs]
 [<img align="left" alt="NextJS" width="55px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpluspng.com%2Fimg-png%2Fnext-logo-png-build-a-universal-javascript-app-with-next-js-280.png&f=1&nofb=1" />][nextjs]
-[<img align="left" alt="Tailwind" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.W_Louhgy0qKrsRO8YfURpQHaHa%26pid%3DApi&f=1" />][tailwind]
+[<img align="left" alt="Tailwind" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2107%2FPNG%2F512%2Ffile_type_tailwind_icon_130128.png&f=1&nofb=1" />][tailwind]
 [<img align="left" alt="Vue" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvuejs.org%2Fimages%2Flogo.png&f=1&nofb=1" />][vue]
 [<img align="left" alt="Strapi" width="55px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEt0L6R3cV--w/company-logo_200_200/0/1625643444931?e=2159024400&v=beta&t=ELir8DqKcwFW5Gc0Wes4AsYmwkK6ylLzWTfPySOrP64" />][strapi]
-[<img align="left" alt="Python" width="55px" src="https://image.pngaaa.com/138/619138-middle.png" />][python]
-[<img align="left" alt="Php" width="55px" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" />][php]
+[<img align="left" alt="Python" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Fpython_logo_icon_168886.png&f=1&nofb=1" />][python]
+[<img align="left" alt="Php" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fphp-1-logo-png-transparent.png&f=1&nofb=1" />][php]
 
 </br>
 </br>
@@ -33,7 +33,7 @@ The name is Ethan and I'm a currently a student [**@HETIC**](https://hetic.net) 
 
 [<img align="left" alt="NodeJs" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ff0.pngfuel.com%2Fpng%2F306%2F37%2Fnode-js-logo-png-clip-art.png&f=1&nofb=1" />][nodejs]
 [<img align="left" alt="Docker" width="55px" src="https://user-images.githubusercontent.com/33750251/60287980-21aa2700-990b-11e9-9c9d-a79874587a86.png" />][docker]
-[<img align="left" alt="C++" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.kZhgfDBXd3cBa6adFsbGRwAAAA%26pid%3DApi&f=1" />][c++]
+[<img align="left" alt="C++" width="55px" src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png" />][c++]
 
 </br>
 </br>
