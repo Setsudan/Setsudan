@@ -26,6 +26,9 @@ The name is Ethan and I'm a currently a student [**@HETIC**](https://hetic.net) 
 </br>
 </br>
 </br>
+</br>
+</br>
+</br>
 
 ## 🆕 Here's what I'm picking right now
 
@@ -33,8 +36,9 @@ The name is Ethan and I'm a currently a student [**@HETIC**](https://hetic.net) 
 [<img align="left" alt="Docker" width="55px" src="https://user-images.githubusercontent.com/33750251/60287980-21aa2700-990b-11e9-9c9d-a79874587a86.png" />][docker]
 [<img align="left" alt="C++" width="55px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.kZhgfDBXd3cBa6adFsbGRwAAAA%26pid%3DApi&f=1" />][c++]
 
-<br/>
-<br/>
+</br>
+</br>
+</br>
 
 ## 🔜 And what I'll try to learn in the near future
 
