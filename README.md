@@ -1,13 +1,15 @@
-## Hello there ✌️
+# Hello there ✌️
+
+## About me
 
 > "The worse I am at something, the better I feel when I work at it and learn how to do it.”
 > – Rudeus Greyrat
 
 The name is Ethan and I'm a currently a student [**@HETIC**](https://hetic.net) in Montreuil, France.
 
-## My top 10 used languages (on github)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setsudan&langs_count=10&layout=compact&theme=dark&hide_border=true&custom_title="/>
+<a href="https://github.com/Setsudan/">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Setsudan&show_icons=true&hide_rank=true&theme=dark&hide_border=true&show_icons=true&custom_title=Here are some stats&include_all_commits=true"/></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setsudan&langs_count=10&theme=dark&hide_border=true&custom_title=My top 10 used languages&layout=compact"/>
 
 ## ✅ Here's what I know right now
 
@@ -23,9 +25,6 @@ The name is Ethan and I'm a currently a student [**@HETIC**](https://hetic.net) 
 [<img align="left" alt="Python" width="55px" src="https://image.pngaaa.com/138/619138-middle.png" />][python]
 [<img align="left" alt="Php" width="55px" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" />][php]
 
-</br>
-</br>
-</br>
 </br>
 </br>
 </br>
@@ -57,17 +56,11 @@ The name is Ethan and I'm a currently a student [**@HETIC**](https://hetic.net) 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 ## Why all that ?
 
 I want to learn what i consider will be more than enough. Once I know all these kind I'll consider myself as fully able to adapt to any language and technology used by anyone.
 I need less than all that but I wanted to make my own opinion on each language and make my own stack for my own little self.
-
-<a href="https://github.com/Setsudan/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Setsudan&show_icons=true&theme=dark&hide_border=true&show_icons=true&custom_title=Here are some stats&include_all_commits=true"/></a>
 
 ## 📢 My contacts
 
