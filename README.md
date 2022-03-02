@@ -2,10 +2,12 @@
 
 ### About me
 
+## The name is Ethan and I'm a currently a student [@Hetic]("hetic.net") in Montreuil, France.
+
+### My motto
+
 > "The worse I am at something, the better I feel when I work at it and learn how to do it.”
 > – Rudeus Greyrat
-
-## The name is Ethan and I'm a currently a student [@Hetic]("hetic.net") in Montreuil, France.
 
 <a href="https://github.com/Setsudan/"  >
 <img width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=Setsudan&theme=dark&hide_border=true&show_icons=true&custom_title=Here are some stats&include_all_commits=true&bg_color=22272e"/></a>
