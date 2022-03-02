@@ -10,7 +10,8 @@
 > – Rudeus Greyrat
 
 <a href="https://github.com/Setsudan/"  >
-<img width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=Setsudan&theme=dark&hide_border=true&show_icons=true&custom_title=Here are some stats&include_all_commits=true&bg_color=22272e"/></a>
+<img width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=Setsudan&theme=dark&hide_border=true&show_icons=true&custom_title=Here are some stats&include_all_commits=true&bg_color=22272e"/>
+</a>
 
 ## And everything about me
 
