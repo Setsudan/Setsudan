@@ -174,4 +174,13 @@ I wanted to know everything I could and then I just understood that programming 
 <a href="mailto:launay.videau.ethan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <abbr title="will come later"><img style="cursor:none;" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></abbr>
 
-## Some project to represent how and what I did
+## Some project to represent how and what I did in :
+
+---
+
+<img height="65px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=php-blog&theme=dark&hide_border=true&show_icons=true&bg_color=22272e)](https://github.com/setsudan/php-blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=php-autodidacte&theme=dark&hide_border=true&show_icons=true&bg_color=22272e)](https://github.com/Setsudan/php-autodidacte)
+
+---
