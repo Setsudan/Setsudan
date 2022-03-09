@@ -1,5 +1,9 @@
 # Hello there ✌️
 
+[About me](###About Me) |
+[What I know and use](## And everything about me) |
+[Some project](## Some project to represent how and what I did in :)
+
 ### About me
 
 ## The name is Ethan and I'm a currently a student [@Hetic]("hetic.net") in Montreuil, France.
@@ -178,9 +182,33 @@ I wanted to know everything I could and then I just understood that programming 
 
 ---
 
+<img height="65px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img height="65px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=firebase-pole-anglais&theme=dark&hide_border=true&show_icons=true&bg_color=22272e)](https://github.com/setsudan/firebase-pole-anglais)
+
+---
+
+<img height="65px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=YONOIL-project&theme=dark&hide_border=true&show_icons=true&bg_color=22272e)](https://github.com/setsudan/YONOIL-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=Art-Plast&theme=dark&hide_border=true&show_icons=true&bg_color=22272e)](https://github.com/Setsudan/Art-Plast)
+
+---
+
+<img height="65px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=Javascript-Exercises&theme=dark&hide_border=true&show_icons=true&bg_color=22272e)](https://github.com/Setsudan/Javascript-Exercises)
+
+---
+
 <img height="65px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=php-blog&theme=dark&hide_border=true&show_icons=true&bg_color=22272e)](https://github.com/setsudan/php-blog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=php-autodidacte&theme=dark&hide_border=true&show_icons=true&bg_color=22272e)](https://github.com/Setsudan/php-autodidacte)
 
 ---
+
+<img height="65px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team4-hetic&repo=rpg-python&theme=dark&hide_border=true&show_icons=true&bg_color=22272e)](https://github.com/team4-hetic/rpg-python)
