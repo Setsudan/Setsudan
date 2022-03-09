@@ -1,9 +1,5 @@
 # Hello there ✌️
 
-[About me](#About) |
-[What I know and use](#And) |
-[Some project](#Some)
-
 ### About me
 
 ## The name is Ethan and I'm a currently a student [@Hetic]("hetic.net") in Montreuil, France.
