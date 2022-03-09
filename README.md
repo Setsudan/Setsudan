@@ -178,8 +178,9 @@ I wanted to know everything I could and then I just understood that programming 
 
 ---
 
+<div>
 <img height="45px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img height="45px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img height="45px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=firebase-pole-anglais&theme=dark&hide_border=true&show_icons=true&bg_color=22272e)](https://github.com/setsudan/firebase-pole-anglais)
 
