@@ -1,8 +1,8 @@
 # Hello there ✌️
 
-[About me](#About Me) |
-[What I know and use](#And everything about me) |
-[Some project](#Some project to represent how and what I did in :)
+[About me](#About) |
+[What I know and use](#And) |
+[Some project](#Some)
 
 ### About me
 
