@@ -1,10 +1,10 @@
 # Hello there ✌️
 
-### About me
+<img src="./img/Idk.png"/>
 
 ## The name is Ethan and I'm a currently a student [@Hetic]("hetic.net") in Montreuil, France.
 
-### My motto
+## My lil quote
 
 > "The worse I am at something, the better I feel when I work at it and learn how to do it.”
 > – Rudeus Greyrat
