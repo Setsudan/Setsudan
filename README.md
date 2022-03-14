@@ -54,7 +54,7 @@ I wanted to know everything I could and then I just understood that programming 
 <img height="45px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=php-blog&theme=dark&hide_border=true&show_icons=true)](https://github.com/setsudan/php-blog)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=php-autodidacte&theme=dark&hide_border=true&show_icons=true)](https://github.com/Setsudan/php-autodidacte)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=paint-en-mieux&theme=dark&hide_border=true&show_icons=true)](https://github.com/Setsudan/paint-en-mieux)
 
 ---
 
