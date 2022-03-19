@@ -165,4 +165,3 @@ I wanted to know everything I could and then I just understood that programming 
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
-[more info]("./moreinfo.md")
