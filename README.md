@@ -21,7 +21,6 @@ I wanted to know everything I could and then I just understood that programming 
 
 <a href="https://github.com/Setsudan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/videau-launay-ethan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.snapchat.com/add/eth-lny?share_id=oP2iCyF475w&locale=en-CA"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/14524182/setsu"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 <a href="mailto:launay.videau.ethan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <abbr title="will come later"><img style="cursor:none;" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></abbr>
@@ -166,3 +165,4 @@ I wanted to know everything I could and then I just understood that programming 
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 </div>
+[more info]("./moreinfo.md")
