@@ -28,7 +28,7 @@ I have more project on this github than the one I am showing under there however
 
 <img height="45px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Setsudan&repo=rpg-python&theme=dark&hide_border=true&show_icons=true)](https://github.com/team4-hetic/rpg-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Setsudan&repo=rpg-python&theme=dark&hide_border=true&show_icons=true)](https://github.com/setsudan/rpg-python)
 
 ---
 
