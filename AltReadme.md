@@ -1,72 +1,8 @@
-@@ -1,48 +1,18 @@
-
 # Hello there ✌️
 
-<img src="./img/Idk.png"/>
+If you're here it's coz you wanted to see more right ? So here are everything I know and use
 
-## The name is Ethan and I'm a currently a student [@Hetic]("hetic.net") in Montreuil, France.
-
-## My lil quote
-
-> "The worse I am at something, the better I feel when I work at it and learn how to do it.”
-> – Rudeus Greyrat
-
-## Why I learned that many things even tho it's useless ?
-
-I wanted to know everything I could and then I just understood that programming is not a question of languages but about solving problems. But anyway I still know how to use everything down there for any type of problem so cheers to me 🍻
-
-<a href="https://github.com/Setsudan/"  >
-<img width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=Setsudan&theme=dark&hide_border=true&show_icons=true&custom_title=Here are some stats&include_all_commits=true&bg_color=22272e"/>
-</a>
-
-### Y'all can find me there
-
-<a href="https://github.com/Setsudan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/videau-launay-ethan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/14524182/setsu"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-<a href="mailto:launay.videau.ethan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<abbr title="will come later"><img style="cursor:none;" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></abbr>
-
-## Some project to represent how and what I did in :
-
-## Know more 'bout me
-
----
-
-<div>
-<img height="45px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img height="45px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=firebase-pole-anglais&theme=dark&hide_border=true&show_icons=true)](https://github.com/setsudan/firebase-pole-anglais)
-
----
-
-<img height="45px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=YONOIL-project&theme=dark&hide_border=true&show_icons=true)](https://github.com/setsudan/YONOIL-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=Art-Plast&theme=dark&hide_border=true&show_icons=true)](https://github.com/Setsudan/Art-Plast)
-
----
-
-## So here are some project I have :
-
-<img height="45px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-
-[![Projet paint @HETIC](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=paint-en-mieux&theme=dark&hide_border=true&show_icons=true)](https://github.com/Setsudan/paint-en-mieux)
-
----
-
-<img height="45px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Setsudan&repo=rpg-python&theme=dark&hide_border=true&show_icons=true)](https://github.com/team4-hetic/rpg-python)
-
----
-
-<img height="45px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Setsudan&repo=javascript-Exercises&theme=dark&hide_border=true&show_icons=true)](https://github.com/team4-hetic/rpg-python)
-
----
+> Si vous êtes ici c'est que vous vouliez en savoir plus n'est ce pas ? Donc voici tout ce que je sais et utilise au quotidien
 
 ## And everything about me
 
@@ -119,7 +55,9 @@ I wanted to know everything I could and then I just understood that programming 
 <div style="display:flex;width80%;">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
+
 </div>
 
 ### The cloud I use
