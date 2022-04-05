@@ -1,22 +1,22 @@
-# Bien le bonjour ✌️
+# grüss gott ✌️
 
-[🇦🇺 : Version Anglaise](https://github.com/Setsudan/) |
-[🇯🇵 : Version Japonaise](https://github.com/Setsudan/Setsudan/blob/main/jap.readme.md)(Encore en correction) |
-[🇩🇪 : Version Allemande](https://github.com/Setsudan/Setsudan/blob/main/de.readme.md)(Encore en correction)
+[🇦🇺 : englische Version](https://github.com/Setsudan/) |
+[🇫🇷 : französische Version](https://github.com/Setsudan/Setsudan/blob/main/fr.readme.md) |
+[🇯🇵 : japanische Version](https://github.com/Setsudan/Setsudan/blob/main/jap.readme.md)(still correcting this one)
 
-## Je suis Ethan et je suis actuellement un étudiant à [@Hetic]("hetic.net") à Montreuil,France.
+## Ich heisse Ethan und Ich bin ein student an einer digitalen Schule [@Hetic]("hetic.net") in Montreuil, Frankreich.
 
 <a href="https://github.com/Setsudan/"  >
 <img width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=Setsudan&theme=dark&hide_border=true&show_icons=true&custom_title=Here are some stats&include_all_commits=true&bg_color=22272e"/>
 </a>
 
-## Quelques infos sur moi
+## über mich
 
-Je suis un étudiant français de 18 ans qui poursuis ses études dans une "école digitale".Cependant une grande partie des mes compétences, je les ais acquises moi-même et ce grâce à l'outil merveilleux qu'est internet.
+Ich bin 18 Jahre alt französiche student in einer "digitalan Schule". Aber meisten Dinge, die ich kenne und benutze, wurden dank des erstaunlichen Internets gelernt.
 
-J'ai décidé de ne montrer uniquement que trois projets sur ce mon profile car ils sont les plus représentatifs selon moi
+Ich habe mehr Projekt auf diesem Github als die, die ich unten zeigen, aber ich beschloss, nur zu zeigen, was ich für würdig halte gezeigt
 
-## Voici quelques projets :
+## hier sind einige meiner Projekte :
 
 <img height="45px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
@@ -36,10 +36,10 @@ J'ai décidé de ne montrer uniquement que trois projets sur ce mon profile car 
 
 ---
 
-### Vous pouvez me retrouver ici
+### Sie finden mich hier
 
 <a href="https://www.linkedin.com/in/videau-launay-ethan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-### Pour en savoir plus sur moi
+### Sehen Sie hier einige meiner Fähigkeiten
 
-> [Cliquer Ici](https://github.com/Setsudan/Setsudan/blob/main/AltReadme.md)
+> [hier klicken](https://github.com/Setsudan/Setsudan/blob/main/AltReadme.md)

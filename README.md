@@ -2,6 +2,7 @@
 
 [🇫🇷 : French version](https://github.com/Setsudan/Setsudan/blob/main/fr.readme.md) |
 [🇯🇵 : Japanese version](https://github.com/Setsudan/Setsudan/blob/main/jap.readme.md)(still correcting this one)
+[🇩🇪 : German version](https://github.com/Setsudan/Setsudan/blob/main/de.readme.md)(still correcting this one)
 
 ## The name is Ethan and I'm a currently a student [@Hetic]("hetic.net") in Montreuil, France.
 
@@ -13,7 +14,7 @@
 
 I'm an 18 years old french student at a "digital school". However most of the things I know and use have been learned thanks to the amazing internet.
 
-I have more project on this github than the one I am showing under there however I decided to only show what I consider worthy of being shown (Except the javascript exercixes I show them cause I am searching for a big javascript/typescript project)
+I have more project on this github than the one I am showing under there. Tho I decided to put the one that asked loads of thinking
 
 ## So here are some project I have :
 
