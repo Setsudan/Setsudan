@@ -1,7 +1,7 @@
 # Bien le bonjour ✌️
 
-[🇦🇺](https://github.com/Setsudan/)
-[🇯🇵](https://github.com/Setsudan/Setsudan/blob/main/jap.readme.md)(still correcting this one)
+[🇦🇺 : Version Anglaise](https://github.com/Setsudan/)
+[🇯🇵 : Version Japonaise](https://github.com/Setsudan/Setsudan/blob/main/jap.readme.md)(still correcting this one)
 
 ## Je suis Ethan et je suis actuellement un étudiant à [@Hetic]("hetic.net") à Montreuil,France.
 
