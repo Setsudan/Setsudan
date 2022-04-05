@@ -1,7 +1,7 @@
 # Hello there ✌️
 
 [🇫🇷 : French version](https://github.com/Setsudan/Setsudan/blob/main/fr.readme.md) |
-[🇯🇵 : Japanese version](https://github.com/Setsudan/Setsudan/blob/main/jap.readme.md)(still correcting this one)
+[🇯🇵 : Japanese version](https://github.com/Setsudan/Setsudan/blob/main/jap.readme.md)(still correcting this one) |
 [🇩🇪 : German version](https://github.com/Setsudan/Setsudan/blob/main/de.readme.md)(still correcting this one)
 
 ## The name is Ethan and I'm a currently a student [@Hetic]("hetic.net") in Montreuil, France.
