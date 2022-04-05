@@ -24,7 +24,7 @@ I have more project on this github than the one I am showing under there however
 
 <img height="45px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=jeux-de-merde&theme=dark&hide_border=true&show_icons=true)](https://github.com/Setsudan/jeux-de-merde)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=skull-rpg-game&theme=dark&hide_border=true&show_icons=true)](https://github.com/Setsudan/skull-rpg-game)
 
 ---
 
