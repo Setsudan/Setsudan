@@ -1,6 +1,6 @@
 # おす ✌️
 
-[🇦🇺 : 英語版](https://github.com/Setsudan/)
+[🇦🇺 : 英語版](https://github.com/Setsudan/) |
 [🇫🇷 : フランス語版](https://github.com/Setsudan/Setsudan/blob/main/)
 
 ## おれ の なまえ わ Ethan で, [HETIC](hetic.net) の 18 歳の学生です.
