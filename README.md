@@ -8,8 +8,6 @@
 
 ## The name is Ethan and I'm a currently a student [@Hetic]("hetic.net") in Montreuil, France.
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
-
 <a href="https://github.com/Setsudan/"  >
 <img width=100% align="center" src="https://github-readme-stats.vercel.app/api?username=Setsudan&theme=dark&hide_border=true&show_icons=true&custom_title=Here are some stats&include_all_commits=true&bg_color=22272e"/>
 </a>
