@@ -17,6 +17,7 @@
 I'm an 18 years old french student at a "digital school". However most of the things I know and use have been learned thanks to the amazing internet.
 
 I have more project on this github than the one I am showing under there. Tho I decided to put the one that asked loads of thinking
+<img src="https://komarev.com/ghpvc/?username=setsudan"/>
 
 ## So here are some project I have :
 
