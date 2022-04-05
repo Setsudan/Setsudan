@@ -1,4 +1,4 @@
-# おす ✌️
+# おす <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 [🇦🇺 : 英語版](https://github.com/Setsudan/)
 
