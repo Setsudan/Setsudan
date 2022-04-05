@@ -1,7 +1,9 @@
 # grüss gott ✌️
 
-[🇦🇺 : englische Version](https://github.com/Setsudan/) |
-[🇫🇷 : französische Version](https://github.com/Setsudan/Setsudan/blob/main/fr.readme.md) |
+[🇦🇺 : englische Version](https://github.com/Setsudan/)
+
+[🇫🇷 : französische Version](https://github.com/Setsudan/Setsudan/blob/main/fr.readme.md)
+
 [🇯🇵 : japanische Version](https://github.com/Setsudan/Setsudan/blob/main/jap.readme.md)(still correcting this one)
 
 ## Ich heisse Ethan und Ich bin ein student an einer digitalen Schule [@Hetic]("hetic.net") in Montreuil, Frankreich.
