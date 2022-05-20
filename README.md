@@ -30,6 +30,8 @@ I have more project on this github than the one I am showing under there. Tho I 
 
 [![Projet paint @HETIC](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=paint-en-mieux&theme=dark&hide_border=true&show_icons=true)](https://github.com/Setsudan/paint-en-mieux)
 
+[![Projet Intranet @HETIC](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&intranet-php&theme=dark&hide_border=true&show_icons=true)](https://github.com/Setsudan/intranet-php)
+
 ---
 
 <img height="45px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
