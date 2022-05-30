@@ -93,7 +93,7 @@ I have more project on this github than the one I am showing under there. Tho I 
 
 ### What languages you can fin on this github
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setsudan&langs_count=10&layout=compact&theme=dark&bg_color=22272e&hide_border=true)](https://github.com/setsudan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setsudan&langs_count=10&layout=compact&theme=dark&bg_color=22272e&hide_border=true&hide_title=true)](https://github.com/setsudan)
 
 ---
 ### Y'all can find me there
