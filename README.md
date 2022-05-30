@@ -93,12 +93,12 @@ I have more project on this github than the one I am showing under there. Tho I 
 
 ### What languages you can fin on this github
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setsudan&langs_count=8)](https://github.com/setsudan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setsudan&langs_count=8&theme=dark&bg_color=22272e&hide_border=true)](https://github.com/setsudan)
 
 ---
 ### Y'all can find me there
 
-<a href="https://www.linkedin.com/in/videau-launay-ethan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&theme=dark&bg_color=22272e&hide_border=true"/></a>
+<a href="https://www.linkedin.com/in/videau-launay-ethan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### To discover more 'bout me
 
