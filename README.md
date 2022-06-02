@@ -1,4 +1,4 @@
-# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 
 [🇫🇷 : French version](https://github.com/Setsudan/Setsudan/blob/main/fr.readme.md)
 
@@ -36,6 +36,7 @@ I have more project on this github than the one I am showing under there. Tho I 
 <img height="45px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Setsudan&repo=rpg-python&theme=dark&hide_border=true&show_icons=true)](https://github.com/setsudan/rpg-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Setsudan&repo=discord.py&theme=dark&hide_border=true&show_icons=true)](https://github.com/setsudan/discord.py)
 
 ---
 ### The languages I know and use
