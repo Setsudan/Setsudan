@@ -2,10 +2,6 @@
 
 [🇫🇷 : French version](https://github.com/Setsudan/Setsudan/blob/main/fr.readme.md)
 
-[🇯🇵 : Japanese version](https://github.com/Setsudan/Setsudan/blob/main/jap.readme.md)(still correcting this one)
-
-[🇩🇪 : German version](https://github.com/Setsudan/Setsudan/blob/main/de.readme.md)(still correcting this one)
-
 ## The name is Ethan and I'm a currently a student [@Hetic]("hetic.net") in Montreuil, France.
 
 <a href="https://github.com/Setsudan/"  >
@@ -18,25 +14,10 @@ I'm an 18 years old french student at a "digital school". However most of the th
 
 I have more project on this github than the one I am showing under there. Tho I decided to put the one that asked loads of thinking
 
-## So here are some project I have :
+## So here are all the projects of :
 
-<img height="45px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=2021-2022&theme=dark&hide_border=true&show_icons=true)](https://github.com/Setsudan/2021-2022)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=skull-rpg-game&theme=dark&hide_border=true&show_icons=true)](https://github.com/Setsudan/skull-rpg-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=portfolio-2021&theme=dark&hide_border=true&show_icons=true)](https://github.com/Setsudan/portfolio-2021)
----
-
-<img height="45px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-
-[![Projet paint @HETIC](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=paint-en-mieux&theme=dark&hide_border=true&show_icons=true)](https://github.com/Setsudan/paint-en-mieux)
-[![Projet Intranet @HETIC](https://github-readme-stats.vercel.app/api/pin/?username=setsudan&repo=intranet-php&theme=dark&hide_border=true&show_icons=true)](https://github.com/Setsudan/intranet-php)
-
----
-
-<img height="45px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Setsudan&repo=rpg-python&theme=dark&hide_border=true&show_icons=true)](https://github.com/setsudan/rpg-python)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Setsudan&repo=discord.py&theme=dark&hide_border=true&show_icons=true)](https://github.com/setsudan/discord.py)
 
 ---
 ### The languages I know and use
@@ -77,7 +58,6 @@ I have more project on this github than the one I am showing under there. Tho I 
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
-  SolidJs
 </div>
 
 ### The databases I know
