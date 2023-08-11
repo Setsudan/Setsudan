@@ -15,3 +15,5 @@ Here are some of my skills in more detail:
 I'm always looking for new challenges, so if you have any ideas for projects, please let me know!
 
 Thanks for reading!
+
+# Complete refacto of all my repositories planned (This is a reminder for me)
