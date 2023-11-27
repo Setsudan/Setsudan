@@ -1,5 +1,7 @@
 # Setsudan A.K.A [@EthLny]
 
+| I am currently refactoring the list of repositories hence why there's currently 0 repositories visible
+
 | To switch to another language [FR] | [EN] | [JP]
 
 Oh hello there ! I'm a 20 years old software engineer. I'm currently working [@Mgen] as a fullstack and mobile developper. HOWEVER I also create desktop application and backgrounds software at home. I'm currently working on a portfolio that deserve the title portfolio and will show all my project on it with documentation, exemple, explanation about some part of the code; And in some cases a link to download the app itself !
