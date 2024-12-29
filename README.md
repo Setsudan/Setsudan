@@ -1,90 +1,44 @@
-# Setsudan A.K.A [@EthLny]
+# 👋 Hello, I'm Setsudan!  
 
-| I am currently refactoring the list of repositories hence why there's currently 0 repositories visible
+**A.K.A [@EthLny](https://github.com/EthLny)**
 
-| To switch to another language [FR] | [EN] | [JP]
+I'm a 21-year-old software engineer based in Paris, France. I specialize in full-stack and mobile development, with a passion for creating desktop applications and background software. I'm currently developing a comprehensive portfolio to showcase my projects, complete with documentation, examples, and code explanations.
 
-Oh hello there ! I'm a 20 years old software engineer. I'm currently working [@Mgen] as a fullstack and mobile developper. HOWEVER I also create desktop application and backgrounds software at home. I'm currently working on a portfolio that deserve the title portfolio and will show all my project on it with documentation, exemple, explanation about some part of the code; And in some cases a link to download the app itself !
+---
 
-## Web Tech
+## 🛠️ Technologies & Tools
 
-I know and use many technologies, however here are the one that might interest you:
+Here are some of the technologies and tools I work with:
 
-- [AngularJS] - HTML enhanced for web apps!
-- [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework
-- [ReactJs/Ts] | [NextJs] - Building dynamic user interfaces with ease!
-- [VueJs/Ts] | [NuxtJs/Ts] - Crafting interactive web experiences effortlessly.
-- [Go]/[Gin] - Efficiently powering network applications with Go and Gin.
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-## Database Management
+---
 
-When it comes to handling and managing data, I've got it covered. Here are some of the database technologies I'm proficient in:
+## 📂 Notable Projects
 
-- [MongoDB] - NoSQL database for flexible and scalable data storage.
-- [PostgreSQL] - Powerful, open-source object-relational database system.
-- [Firebase] - Real-time database and authentication services for web and mobile apps.
-- [Redis] - In-memory data structure store for fast data retrieval.
+Here are some of my public repositories:
 
-## Cloud Computing
+- **[File Organizer](https://github.com/Setsudan/file-organizer)**  
+  A Go-based script that automates the organization of your Downloads folder by categorizing files into predefined directories such as Documents, Videos, Audio, and Pictures. It intelligently moves files based on their extensions, ensuring a tidy and organized system.
 
-In the realm of cloud computing, I navigate seamlessly through various platforms:
+- **[COBOL Calculator](https://github.com/Setsudan/COBOL-Calculator)**  
+  A simple calculator application written in COBOL that performs basic arithmetic operations—addition, subtraction, multiplication, and division. Additionally, it identifies whether the result is odd or even, showcasing the versatility of COBOL in modern applications.
 
-- [Google Cloud Platform (GCP)] - Building and deploying applications on Google's infrastructure.
-- [DigitalOcean] - Simplicity and performance for cloud infrastructure and scalable applications.
+- **[GClone](https://github.com/Setsudan/gclone)**  
+  A simple and convenient CLI tool to streamline the GitHub repository cloning process.
 
-## DevOps and Automation
+Feel free to explore these repositories to get a better understanding of my work and coding style.
 
-Efficiency is key, and I excel in streamlining development processes and automation:
+---
 
-- [Docker] - Containerization for seamless deployment across different environments.
-- [Kubernetes] - Orchestrating containerized applications for scalability and resilience.
-- [Git] - Version control for collaborative and organized software development.
+## 📫 Let's Connect!
 
-## Mobile Development
+- **Email**: [contact@ethlny.net](mailto:contact@ethlny.net)  
+- **LinkedIn**: [linkedin.com/in/ethlny](https://www.linkedin.com/in/ethlny)  
 
-For crafting exceptional mobile experiences, I'm well-versed in the following technologies:
-
-- [Flutter]/[Dart] - Creating beautiful and seamless cross-platform apps with Flutter and Dart.
-- [React Native] - Building native mobile apps using React for a smooth user experience.
-- [Kotlin] - Crafting native Android applications for a diverse user base.
-
-## Security and Authentication
-
-Ensuring the safety and integrity of applications is a top priority. I specialize in:
-
-- [OAuth] - Implementing secure authorization for APIs and applications.
-- [JWT] - Providing a robust and compact method for authentication.
-- [Firebase Authentication] - Integrating Firebase for secure user authentication in apps.
-
-[node.js]: <https://nodejs.org>
-[express]: <https://expressjs.com>
-[AngularJS]: <https://angularjs.org>
-[ReactJs/Ts]: <https://react.dev/>
-[NextJs]: <https://nextjs.org/>
-[React Native]: <https://reactnative.dev/>
-[VueJS/Ts]: <https://vuejs.org/>
-[NuxtJS/Ts]: <https://nuxt.com/>
-[Go]: <https://go.dev/>
-[Gin]:<https://gin-gonic.com/>
-[Flutter]:<https://flutter.dev/>
-[Dart]: <https://dart.dev/>
-[@EthLny]: <https://github.com/ethlny>
-[@Mgen]: <https://mgen.fr>
-[MongoDB]: <https://mongodb.com>
-[PostgreSQL]: <https://www.postgresql.org/>
-[Firebase]: <https://firebase.com>
-[Firebase Authentication]: <https://firebase.com>
-[Redis]: <https://redis.io>
-[Google Cloud Platform (GCP)]: <https://https://cloud.google.com/>
-[DigitalOcean]: <https://www.digitalocean.com/>
-[Docker]:<https://docker.io>
-[Kubernetes]: <https://kubernetes.io/>
-[Git]: <https://git-scm.com/>
-[Kotlin]:<https://kotlinlang.org/>
-[OAuth]: <https://oauth.net/>
-[JWT]:<https://jwt.io/>
-
-[FR]: <https://github.com/Setsudan/Setsudan/blob/main/README.fr.md>
-[EN]: <https://github.com/Setsudan>
-[JP]: <https://github.com/Setsudan/Setsudan/blob/main/README.jp.md>
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Let's connect and make something amazing together!
