@@ -2,7 +2,7 @@
 
 **A.K.A [@EthLny](https://github.com/EthLny)**
 
-I'm a 21-year-old software engineer based in Paris, France. I specialize in full-stack and mobile development, with a passion for creating desktop applications and background software. I'm currently developing a comprehensive portfolio to showcase my projects, complete with documentation, examples, and code explanations.
+I'm a 21-year-old software engineer based in Paris, France. I specialize in full-stack and mobile development, with a passion for creating desktop applications and background software.
 
 ---
 
